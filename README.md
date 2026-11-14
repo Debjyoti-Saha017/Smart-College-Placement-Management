@@ -168,22 +168,6 @@ Smart-College-Placement-Management-System/
 - MongoDB Atlas account
 - npm or yarn
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/H-B-Chethan/Smart-College-Placement-Management-System.git
-cd Smart-College-Placement-Management-System
-
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
-cd ../frontend
-npm install
-```
-
 ### Environment Variables
 
 Create a `.env` file in the `backend/` directory:
